@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32708.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "AlgebraicOptics", "AlgebraicOptics\AlgebraicOptics.fsproj", "{2CE4FFF3-137D-4D35-BDA3-49CFB6486F66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE4FFF3-137D-4D35-BDA3-49CFB6486F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE4FFF3-137D-4D35-BDA3-49CFB6486F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE4FFF3-137D-4D35-BDA3-49CFB6486F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE4FFF3-137D-4D35-BDA3-49CFB6486F66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7F43FB8-BA87-4791-AE6A-A26B5093CD23}
+	EndGlobalSection
+EndGlobal
